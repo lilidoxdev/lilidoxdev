@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Lilidox" width="100%">
+<img src="https://github.com/lilidoxdev/lilidoxdev/raw/main/assets/banner.png" alt="Lilidox" width="100%">
 
 # Lilidox
 
